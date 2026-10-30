@@ -104,3 +104,16 @@
 // scanf("%c", &input);
 // printf("Your character is: %c", input);
 // printf("The ASCII calue of '%c' is: %d", input, input);
+
+// ---
+
+// Exercise 9: Check Even or Odd
+//
+// int num;
+// num = 12;
+
+// if ( num % 2 == 0){
+//     printf("%d is an EVEN number.", num);
+// } else {
+//     printf("%d is an ODD number", num);
+// }
