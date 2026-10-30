@@ -117,3 +117,15 @@
 // } else {
 //     printf("%d is an ODD number", num);
 // }
+
+// ---
+//
+// Exercise 10: Find Largest of Three Numbers
+// int A = 10, B = 30, C = 20;
+
+// int max = A;
+
+// if ( B > max ) max = B;
+// if ( C > max ) max = C;
+
+// printf("%d is the largest number.", max);
